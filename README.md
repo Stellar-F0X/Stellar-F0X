@@ -1,7 +1,7 @@
 # Stellar F0X
 
 I'm an aspiring game developer from Korea. <br>
-I mainly create personal game projects using **Unreal Engine** and **Unity**.
+I can work with **Unity** and **Unreal Engine**.
 
 ## 🛠 Engines
 
