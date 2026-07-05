@@ -1,8 +1,8 @@
 # Stellar F0X
 
 I'm an aspiring game developer from Korea. <br>
-I mainly work with **Unreal Engine** and **Unity**, and I can use **C, C++, C#, Java, Python, and HLSL**. <br>
-I also enjoy **game design**, especially designing gameplay systems, combat mechanics, and player experiences.
+I mainly create personal game projects using **Unreal Engine** and **Unity**. <br>
+I'm familiar with **C, C++, C#, Java, Python, and HLSL**, and I'm interested in gameplay programming, combat systems, and game design.
 
 ## 🛠 Engines
 
@@ -25,5 +25,3 @@ I also enjoy **game design**, especially designing gameplay systems, combat mech
 - Action Game Mechanics
 - Game UI / UX
 - Game Design
-
----
