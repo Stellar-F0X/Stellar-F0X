@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=eebb01&height=200&section=header)
+
 # Stellar F0X
 
 I'm an aspiring game developer from Korea. <br>
