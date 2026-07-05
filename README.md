@@ -1,16 +1,29 @@
-## Hi there 👋
+# Stellar F0X
 
-<!--
-**Stellar-F0X/Stellar-F0X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring game developer from Korea. <br>
+I mainly work with **Unreal Engine** and **Unity**, and I can use **C, C++, C#, Java, Python, and HLSL**. <br>
+I also enjoy **game design**, especially designing gameplay systems, combat mechanics, and player experiences.
 
-Here are some ideas to get you started:
+## 🛠 Engines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=directx&logoColor=white)
+
+## 🎮 Interested in
+
+- Gameplay Programming
+- Game System Design
+- Action Game Mechanics
+- Game UI / UX
+- Game Design
+
+---
