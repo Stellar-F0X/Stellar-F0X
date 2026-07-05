@@ -24,3 +24,11 @@ I can work with **Unity** and **Unreal Engine**.
 - Action Game Mechanics
 - Game UI/UX
 - Game Design
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stellar-F0X/Stellar-F0X/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stellar-F0X/Stellar-F0X/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Stellar-F0X/Stellar-F0X/output/github-contribution-grid-snake.svg">
+</picture>
